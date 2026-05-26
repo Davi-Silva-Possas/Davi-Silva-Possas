@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá ☺ Meu nome é Davi (como tá no perfil) tenho 15 anos 🐡
+
+O que estou aprendendo: neste momento eu estou começando a aprender: Versionamento 📋 - Segurança da Informação e Proteção de Dados 📘 - Lógica de Programação (portugol) 📗 - Inovação Social e Científica e Empreendedorismo 🤔 - Fundamentos UI / UX 🙃 - Arquitetura de Hardware e Software 📊
+
+o que eu gosto: eu gosto bastante de jogar jogos indies como hollow knight e the binding of isaac e gasto grande parte do meu tempo neles, também tenho um enorme gosto em biologia e adoro aprender sobre comportamento de animais e ver animes.
 
 <!--
 **Davi-Silva-Possas/Davi-Silva-Possas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
